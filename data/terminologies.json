@@ -1,0 +1,116 @@
+{
+  "terminologies": [
+    {
+      "id": "89575-5",
+      "class": "CHEM",
+      "component": "Troponin T.cardiac",
+      "longCommonName": "Troponin T.cardiac [Interpretation] in Serum or Plasma Qualitative by High sensitivity method",
+      "activeSince": "2025-06-12T17:05:00Z",
+      "version": 2.78
+    },
+    {
+      "id": "67151-1",
+      "class": "CHEM",
+      "component": "Troponin T.cardiac",
+      "longCommonName": "Troponin T.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method",
+      "activeSince": "2024-06-12T10:32:00Z",
+      "version": 2.78
+    },
+    {
+      "id": "89579-7",
+      "class": "CHEM",
+      "component": "Troponin I.cardiac",
+      "longCommonName": "Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method",
+      "activeSince": "2025-09-12T12:33:00Z",
+      "version": 2.78
+    },
+    {
+      "id": "6598-7",
+      "class": "CHEM",
+      "component": "Troponin T.cardiac",
+      "longCommonName": "Troponin T.cardiac [Mass/volume] in Serum or Plasma",
+      "activeSince": "2023-06-12T10:32:00Z",
+      "version": 2.78
+    },
+    {
+      "id": "89578-9",
+      "class": "CHEM",
+      "component": "Troponin I.cardiac",
+      "longCommonName": "Troponin I.cardiac [Interpretation] in Serum or Plasma Qualitative by High sensitivity method",
+      "activeSince": "2025-02-01T14:11:00Z",
+      "version": 2.78
+    },
+    {
+      "id": "76399-5",
+      "class": "CHEM",
+      "component": "Troponin I.cardiac",
+      "longCommonName": "Troponin I.cardiac [Presence] in Serum, Plasma or Blood by Rapid immunoassay",
+      "activeSince": "2025-02-01T14:12:00Z",
+      "version": 2.78
+    },
+    {
+      "id": "14682-9",
+      "class": "CHEM",
+      "component": "Creatinine",
+      "longCommonName": "Creatinine [Moles/volume] in Serum or Plasma",
+      "activeSince": "2025-09-12T09:56:00Z",
+      "version": 2.78
+    },
+    {
+      "id": "1742-6",
+      "class": "CHEM",
+      "component": "Alanine aminotransferase",
+      "longCommonName": "Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma",
+      "activeSince": "2025-09-12T09:57:00Z",
+      "version": 2.78
+    },
+    {
+      "id": "27344-1",
+      "class": "CHEM",
+      "component": "Aspartate aminotransferase",
+      "longCommonName": "Aspartate aminotransferase [Presence] in Serum or Plasma",
+      "activeSince": "2025-09-12T12:33:00Z",
+      "version": 2.78
+    },
+    {
+      "id": "2549-4",
+      "class": "CHEM",
+      "component": "Lactate dehydrogenase 5",
+      "longCommonName": "Lactate dehydrogenase 5 [Enzymatic activity/volume] in Serum or Plasma",
+      "activeSince": "2025-06-12T12:33:00Z",
+      "version": 2.78
+    },
+    {
+      "id": "14647-2",
+      "class": "CHEM",
+      "component": "Cholesterol",
+      "longCommonName": "Cholesterol [Moles/volume] in Serum or Plasma",
+      "activeSince": "2025-06-12T09:12:00Z",
+      "version": 2.78
+    },
+    {
+      "id": "39469-2",
+      "class": "CHEM",
+      "component": "Cholesterol.in LDL",
+      "longCommonName": "Cholesterol in LDL [Moles/volume] in Serum or Plasma by calculation",
+      "activeSince": "2025-06-12T09:12:00Z",
+      "version": 2.78
+    },
+    {
+      "id": "14646-4",
+      "class": "CHEM",
+      "component": "Cholesterol.in HDL",
+      "longCommonName": "Cholesterol in HDL [Moles/volume] in Serum or Plasma",
+      "activeSince": "2025-06-12T09:12:00Z",
+      "version": 2.78
+    },
+    {
+      "id": "59260-0",
+      "class": "HEM/BC",
+      "component": "Hemoglobin",
+      "longCommonName": "Hemoglobin [Moles/volume] in Blood",
+      "activeSince": "2025-03-01T16:10:00Z",
+      "version": 2.78
+    }
+  ]
+}
