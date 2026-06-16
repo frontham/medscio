@@ -3,6 +3,8 @@
 Built with **Next.js 16 (App Router)**, **React 19** and **TypeScript**, styled
 with **Tailwind v4**, and tested with **Vitest + React Testing Library**.
 
+<img width="1622" height="918" alt="image" src="https://github.com/user-attachments/assets/b83feda7-b53f-441e-9bf3-1d439811f7c3" />
+
 ---
 
 ## Getting started
